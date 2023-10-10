@@ -1,2 +1,2 @@
-# Sex Offender Analysis and Mapping Visualization Tool
+# SafeZone
 Hosts a Python-based tool I created on Jupyter Notebook that leverages FamilyWatchdog's database of sex offenders for comprehensive demographic analysis and mapping visualization. The tool enables users to explore and understand sex offender demographics and their spatial distribution using geolocation data. It offers an intuitive interface, incorporating data retrieval, processing, and visualization to enhance community awareness and safety. Dive into the repository to explore the code, run the tool, and contribute to improving community safety through data-driven insights.
