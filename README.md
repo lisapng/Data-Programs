@@ -1,2 +1,2 @@
-# SafeZone
+# SafeZone: Offender Geospatial Analysis Tool
 A tool created using Python and FamilyWatchdog's national database of sex offenders for comprehensive demographic analysis and large-scale mapping visualization. This tool enables users to explore and understand offender demographics and their spatial distribution throughout the United States using geolocation data. It offers an intuitive interface that incorporates data retrieval, processing, and visualization to enhance awareness and safety. Dive into the repository to explore the code, run the tool, and contribute to improving community safety through data-driven insights.
